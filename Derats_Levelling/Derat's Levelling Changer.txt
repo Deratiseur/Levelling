@@ -1,0 +1,8 @@
+Ce mod vous permet de changer la table d'xp des classes. Vous pouvez accorder la même table d'xp pour toutes les classes (au choix) ET/OU accorder la table d'xp
+que vous voulez à la classe que vous voulez.
+
+Ce mod utilise les tables d'xp callées à 8M, le maximum autorisé par le jeu.
+
+Pensez quand même que si vous accélérez l'xp de vos mages (table d'xp de voleur, clerc ou guerrier), il ne sont pas "prévus" pour aller au delà du niveau 31,
+dont n'ont pas d'évolution de table de sorts et plus de hlas disponibles. Sauf si vous installez un mod tier comme Tweak Anthology ou Selphira Tweak qui peuvent
+gérer des tables de sorts de hauts niveaux.
