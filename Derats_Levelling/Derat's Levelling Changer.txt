@@ -7,9 +7,20 @@ Pensez quand même que si vous accélérez l'xp de vos mages (table d'xp de voleur,
 dont n'ont pas d'évolution de table de sorts et plus de hlas disponibles. Sauf si vous installez un mod tier comme Tweak Anthology ou Selphira Tweak qui peuvent
 gérer des tables de sorts de hauts niveaux.
 
+
+
+
+
+
 Mises à jour :
-V2 :la table du paladin avait un nom erroné.
+v2 :la table du paladin avait un nom erroné.
+
 v3 : il y avait une inversion de langues, et un fichier odt qui traînait.
+
 v4 :
-Il y avait un défaut de conception : si je donnait l'xp du guerrier à tout le monde et que je voulais ensuite redonner l'xp de prêtre à mon prêtre, je ne pouvais pas.
-Le Moine ne pouvait pas être patché sur oBG2 à cause de la nom présence du Chaman.
+- Il y avait un défaut de conception : si je donnais l'xp du guerrier à tout le monde et que je voulais ensuite redonner l'xp de prêtre à mon prêtre, je ne pouvais pas.
+- Le Moine ne pouvait pas être patché sur oBG2 à cause de la nom présence du Chaman.
+
+v5 :
+- Une entrée du moine écrivait chaman à la place et faisait buguer tous les moines crées. Merci beaucoup à Selphira :)
+- Réorganisation de l'ordre dans laquelle les classes sont proposées pour associer les classes similaires entre elles.
