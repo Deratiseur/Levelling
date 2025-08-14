@@ -22,5 +22,5 @@ v4 :
 - Le Moine ne pouvait pas être patché sur oBG2 à cause de la nom présence du Chaman.
 
 v5 :
-- Une entrée du moine écrivait chaman à la place et faisait buguer tous les moines crées. Merci beaucoup à Selphira :)
+- Une entrée du moine écrivait chaman à la place et faisait buguer tous les moines crées. Merci beaucoup à Selphira et JohnBob :)
 - Réorganisation de l'ordre dans laquelle les classes sont proposées pour associer les classes similaires entre elles.
