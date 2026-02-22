@@ -8,6 +8,9 @@ LANGUAGE ~Francais~
 LANGUAGE ~English~
 	~English~
 	~Derats_Levelling/Languages/English/Setup.tra~
+LANGUAGE ~Schinese~
+	~Schinese~
+	~Derats_Levelling/Languages/Schinese/Setup.tra~
 
 BEGIN @2 SUBCOMPONENT @1 DESIGNATED 2 GROUP @20
 LABEL Px_levelling_Thief_All
