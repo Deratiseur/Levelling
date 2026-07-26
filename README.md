@@ -1,8 +1,8 @@
-<div style="display:flex; gap:20px;">
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%" valign="top">
 
-<div style="width:50%;">
-
-## English
+**English**
 
 ### Description
 
@@ -14,11 +14,11 @@ Warning: install Levelling Changer AFTER any mod that changes XP to infinite XP 
 
 On IWDEE, you MUST install "the same table for everyone" for it to work. After the general table, you can of course install individual tables.
 
-</div>
+</td>
 
-<div style="width:50%;">
+<td width="50%" valign="top">
 
-## Français
+**Français**
 
 ### Description
 
@@ -30,6 +30,6 @@ Attention : installez Levelling Changer APRÈS tout mod qui modifierait l'XP pou
 
 Sur IWDEE, vous DEVEZ installer "la même table pour tout le monde" pour que ça fonctionne. Après la table générale, vous pouvez bien sûr installer des tables individuelles.
 
-</div>
-
-</div>
+</td>
+</tr>
+</table>
